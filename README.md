@@ -7,5 +7,5 @@ Hi, I'm Arwendy, a recent graduate majoring in Informatics and Computer Engineer
 My CV in [pdf](https://github.com/arwendy123/data_scientist_portfolio/blob/main/Arwendy_Melyndra_Data_Scientist_Resume.pdf)
 
 <br>
-This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics and Data Science related topics.
 <br>
