@@ -19,7 +19,7 @@ This is a repository that I have created to showcase skills, share projects and 
 - [Contacts](#contacts)
 
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section, I will provide a brief overview of my data analytics projects, along with the technology stack I utilized to address each case.
 
 ### Lorem
 **Code:** 
@@ -29,7 +29,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:**
 
 ## Study Projects
-In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
+In this section, I will share links to my GitHub repositories where you can find the code and Jupyter notebooks that I have created during online courses or for personal projects:
 
 ### Lorem
 **Description:**
@@ -37,7 +37,7 @@ In this section I will provide links to my github repositories containing code a
 **Status:**
 
 ## Certificates
-I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+While practical application and sharing completed work are the best ways to showcase skills, certificates can also provide indirect evidence. Here are my certifications, listed in reverse-chronological order with completion dates:
 - [Analitik Data Google](https://www.coursera.org/account/accomplishments/professional-cert/7D73GJCRBWTS) (Dec 2022) (Coursera)
 
 ## Contacts
