@@ -38,6 +38,7 @@ In this section I will provide links to my github repositories containing code a
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+- [Analitik Data Google](https://www.coursera.org/account/accomplishments/professional-cert/7D73GJCRBWTS) (Dec 2022) (Coursera)
 
 ## Contacts
 - LinkedIn: [@arwendy](https://www.linkedin.com/in/arwendy-melyndra-970640200/)
