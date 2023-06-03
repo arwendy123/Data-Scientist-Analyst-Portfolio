@@ -13,13 +13,12 @@ This is a repository that I have created to showcase skills, share projects and 
 
 ## Table of contents
 - [About](#about)
-- [Portfolio Projects](#portfolio-projects)
+- [Projects](#projects)
   + [Exploratory Data Analysis English Premier League 2020/2021](#exploratory-data-analysis-english-premier-league-20202021)
-- [Study Projects](#study-projects)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
-## Portfolio Projects
+## Projects
 In this section, I will provide a brief overview of my data analytics projects, along with the technology stack I utilized to address each case.
 
 ### Exploratory Data Analysis English Premier League 2020/2021
