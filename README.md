@@ -48,14 +48,6 @@ This project is a data analysis aimed at studying goal scorers and player contri
 **Results:**
 The result of this project is a better understanding of goal scorers and player contributions in the English Premier League (EPL) for the 2020-2021 season. Through data analysis, we can identify the top players in terms of goals and assists, examine the goal-scoring efficiency by comparing actual goals with expected goals (xG), evaluate the distribution of player positions within teams, and explore the correlation between yellow cards and the number of goals scored. Additionally, data visualizations help present the information in a clear and understandable manner. The outcomes of this project provide valuable insights into player and team performance in the EPL and can serve as a basis for strategic decision-making in team management or further analysis in the field of sports.
 
-## Study Projects
-In this section, I will share links to my GitHub repositories where you can find the code and Jupyter notebooks that I have created during online courses or for personal projects:
-
-### Lorem
-**Description:**
-**Repository:**
-**Status:**
-
 ## Certificates
 While practical application and sharing completed work are the best ways to showcase skills, certificates can also provide indirect evidence. Here are my certifications, listed in reverse-chronological order with completion dates:
 - [Analitik Data Google](https://www.coursera.org/account/accomplishments/professional-cert/7D73GJCRBWTS) (Dec 2022) (Coursera)
