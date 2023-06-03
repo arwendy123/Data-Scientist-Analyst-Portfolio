@@ -14,7 +14,7 @@ This is a repository that I have created to showcase skills, share projects and 
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  + [Exploratory Data Analysis English Premier League 2020/2021](### Exploratory Data Analysis English Premier League 2020/2021)
+  + [Exploratory Data Analysis English Premier League 2020/2021](# Exploratory-Data-Analysis-English-Premier-League-2020/2021)
 - [Study Projects](#study-projects)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
