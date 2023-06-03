@@ -14,7 +14,7 @@ This is a repository that I have created to showcase skills, share projects and 
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  + [Exploratory Data Analysis English Premier League 2020/2021](##Eploratory Data Analysis English Premier League 2020/2021)
+  + [Exploratory Data Analysis English Premier League 2020/2021](#Exploratory Data Analysis English Premier League 2020/2021)
 - [Study Projects](#study-projects)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
@@ -24,7 +24,7 @@ In this section, I will provide a brief overview of my data analytics projects, 
 
 ### Exploratory Data Analysis English Premier League 2020/2021
 **Code:**
-[Exploratory Data Analysis English Premier League 2020/2021](EDA_EPL_Player_2021_2022.ipynb)
+[Exploratory Data Analysis English Premier League 2020/2021](https://github.com/arwendy123/EDA_EPL_Player_2020-2021/blob/60983f000d72de71ff48e38c2610feebe47655ec/EDA_EPL_Player_2021_2022.ipynb)
 
 **Description:**
 This project is a data analysis aimed at studying goal scorers and player contributions in the English Premier League (EPL) for the 2020-2021 season. By utilizing statistical data such as the number of goals, assists, yellow cards, and red cards, the project provides insights into player and team performance in the competition. Additionally, data visualization is used to showcase top players, goal-scoring efficiency, player position distribution, and other relevant statistics. Overall, the project offers a better understanding of player roles in goal creation and helps evaluate team performance.
