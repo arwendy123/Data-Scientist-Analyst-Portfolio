@@ -15,15 +15,20 @@ This is a repository that I have created to showcase skills, share projects and 
 - [About](#about)
 - [Projects](#projects)
   - [Machine Learning](#machine-learning)
+  - [Data Analysis](#data-analysis)
     + [Exploratory Data Analysis English Premier League 2020/2021 Player](#exploratory-data-analysis-english-premier-league-20202021-player)
+  - [Detection Project](#detection-project)
+  - [Presentation Project](#presentation-project)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
 ## Projects
 In this section, I will provide a brief overview of my data analytics projects, along with the technology stack I utilized to address each case.
 
-### Machine Learning
+## Machine Learning
 
+
+## Data Analysis
 ### Exploratory Data Analysis English Premier League 2020/2021 Player
 **Code:**
 [Exploratory Data Analysis English Premier League 2020/2021](https://github.com/arwendy123/EDA_EPL_Player_2020-2021/blob/60983f000d72de71ff48e38c2610feebe47655ec/EDA_EPL_Player_2021_2022.ipynb)
@@ -49,6 +54,10 @@ This project is a data analysis aimed at studying goal scorers and player contri
 
 **Results:**
 The result of this project is a better understanding of goal scorers and player contributions in the English Premier League (EPL) for the 2020-2021 season. Through data analysis, we can identify the top players in terms of goals and assists, examine the goal-scoring efficiency by comparing actual goals with expected goals (xG), evaluate the distribution of player positions within teams, and explore the correlation between yellow cards and the number of goals scored. Additionally, data visualizations help present the information in a clear and understandable manner. The outcomes of this project provide valuable insights into player and team performance in the EPL and can serve as a basis for strategic decision-making in team management or further analysis in the field of sports.
+
+## Detection Project
+
+## Presentation Project
 
 ## Certificates
 While practical application and sharing completed work are the best ways to showcase skills, certificates can also provide indirect evidence. Here are my certifications, listed in reverse-chronological order with completion dates:
