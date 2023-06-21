@@ -31,7 +31,7 @@ In this section, I will provide a brief overview of my data analytics projects, 
 ## Machine Learning
 ### Fuel Consumption and CO2 Emissions Analysis for Canadian Light-Duty Vehicles Using SVR Model
 **Code:**
-[Fuel Consumption and CO2 Emissions Analysis for Canadian Light-Duty Vehicles Using SVR Model](https://github.com/arwendy123/svr_model_fuelconsumption/blob/main/SVR_Model_for_Fuel_Consumption.ipynb)
+[Here](https://github.com/arwendy123/svr_model_fuelconsumption/blob/main/SVR_Model_for_Fuel_Consumption.ipynb)
 
 **Description:**
 This project involves analyzing a dataset that provides model-specific fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles sold in Canada. The main objective is to gain insights into the fuel efficiency and environmental impact of these vehicles and establish a basis for comparing different models across various model years. The analysis includes data exploration, modelling using the Support Vector Regression (SVR) method, and model performance evaluation. The project aims to provide valuable information for understanding fuel efficiency and the environmental implications of light-duty vehicles in the Canadian market.
@@ -59,7 +59,7 @@ The project resulted in valuable insights into the fuel consumption and carbon d
 ## Data Analysis
 ### Exploratory Data Analysis English Premier League 2020/2021 Player
 **Code:**
-[Exploratory Data Analysis English Premier League 2020/2021](https://github.com/arwendy123/EDA_EPL_Player_2020-2021/blob/60983f000d72de71ff48e38c2610feebe47655ec/EDA_EPL_Player_2021_2022.ipynb)
+[Here](https://github.com/arwendy123/EDA_EPL_Player_2020-2021/blob/60983f000d72de71ff48e38c2610feebe47655ec/EDA_EPL_Player_2021_2022.ipynb)
 
 **Description:**
 This project is a data analysis aimed at studying goal scorers and player contributions in the English Premier League (EPL) for the 2020-2021 season. By utilizing statistical data such as the number of goals, assists, yellow cards, and red cards, the project provides insights into player and team performance in the competition. Additionally, data visualization is used to showcase top players, goal-scoring efficiency, player position distribution, and other relevant statistics. Overall, the project offers a better understanding of player roles in goal creation and helps evaluate team performance.
