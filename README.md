@@ -14,14 +14,17 @@ This is a repository that I have created to showcase skills, share projects and 
 ## Table of contents
 - [About](#about)
 - [Projects](#projects)
-  + [Exploratory Data Analysis English Premier League 2020/2021 Player](#exploratory-data-analysis-english-premier-league-20202021)
+  - [Machine Learning](#machine-learning)
+    + [Exploratory Data Analysis English Premier League 2020/2021 Player](#exploratory-data-analysis-english-premier-league-20202021-player)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
 ## Projects
 In this section, I will provide a brief overview of my data analytics projects, along with the technology stack I utilized to address each case.
 
-### Exploratory Data Analysis English Premier League 2020/2021
+### Machine Learning
+
+### Exploratory Data Analysis English Premier League 2020/2021 Player
 **Code:**
 [Exploratory Data Analysis English Premier League 2020/2021](https://github.com/arwendy123/EDA_EPL_Player_2020-2021/blob/60983f000d72de71ff48e38c2610feebe47655ec/EDA_EPL_Player_2021_2022.ipynb)
 
