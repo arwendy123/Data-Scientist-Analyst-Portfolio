@@ -83,6 +83,26 @@ This project is a data analysis aimed at studying goal scorers and player contri
 **Results:**
 The result of this project is a better understanding of goal scorers and player contributions in the English Premier League (EPL) for the 2020-2021 season. Through data analysis, we can identify the top players in terms of goals and assists, examine the goal-scoring efficiency by comparing actual goals with expected goals (xG), evaluate the distribution of player positions within teams, and explore the correlation between yellow cards and the number of goals scored. Additionally, data visualizations help present the information in a clear and understandable manner. The outcomes of this project provide valuable insights into player and team performance in the EPL and can serve as a basis for strategic decision-making in team management or further analysis in the field of sports.
 
+### Looker Studio Dashboard - Indonesia COVID-19 Cases
+**Dashboard:**
+[Here](https://lookerstudio.google.com/reporting/d63997bf-82bc-45d1-9d37-c8a4eafb3a84)
+
+**Description:**
+This project involved creating a comprehensive Looker Studio dashboard to analyze and visualize the COVID-19 cases in Indonesia. The dashboard includes various visualizations, such as a time series chart for daily new cases, a hierarchical map displaying the top 10 regions with the highest total cases, a bar chart showcasing the provinces with the most deaths, and a map illustrating the distribution of deaths across Indonesia. The aim was to provide stakeholders with actionable insights into the pandemic situation, enabling data-driven decision-making and resource allocation.
+
+**Skills:** 
+- Data Visualization using Looker Studio
+- SQL for data retrieval and manipulation
+- Understanding of COVID-19 data and metrics
+
+**Technology:**
+- Looker Studio
+- SQL
+- Data Integration
+- Data Cleaning and Transformation
+
+**Results:**
+The Looker Studio dashboard on Indonesia COVID-19 Cases has yielded significant results in providing valuable insights and aiding decision-making processes. The time series chart for daily new cases allows users to closely monitor the trends and patterns of the pandemic over time, enabling the identification of potential surges or declines in infection rates. The hierarchical map highlighting the top 10 regions with the highest total cases helps stakeholders prioritize resources and interventions in the areas most severely affected by the virus. Additionally, the bar chart showcasing the provinces with the most deaths provides a clear understanding of the regions that require urgent attention and resource allocation. Lastly, the map illustrating the distribution of deaths across Indonesia allows stakeholders to identify hotspots and target specific regions for effective mitigation strategies. Overall, the Looker Studio dashboard has proven to be a valuable tool in visualizing and analyzing COVID-19 data, empowering stakeholders to make data-driven decisions and take proactive measures to control the spread of the virus and mitigate its impact.
 
 ## Detection Project
 
