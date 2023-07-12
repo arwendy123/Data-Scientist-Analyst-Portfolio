@@ -18,7 +18,7 @@ This is a repository that I have created to showcase skills, share projects and 
     + [Fuel Consumption and CO2 Emissions Analysis for Canadian Light-Duty Vehicles Using SVR Model](#fuel-consumption-and-co2-emissions-analysis-for-canadian-light-duty-vehicles-using-svr-model)
     + [Customer Churn Prediction in Telecommunications: A Machine Learning Approach](#customer-churn-prediction-in-telecommunications-a-machine-learning-approach)
   - [Data Analysis](#data-analysis)
-    + [Exploratory Data Analysis English Premier League 2020/2021 Player](#exploratory-data-analysis-english-premier-league-20202021-player)
+    + [English Premier League 2020/2021 Player Analysis](#exploratory-data-analysis-english-premier-league-20202021-player)
     + [Looker Studio Dashboard - Indonesia COVID-19 Cases](#looker-studio-dashboard---indonesia-covid-19-cases)
   - [Detection Project](#detection-project)
   - [Presentation Project](#presentation-project)
@@ -33,7 +33,7 @@ In this section, I will provide a brief overview of my data analytics projects, 
 ## Machine Learning
 ### Fuel Consumption and CO2 Emissions Analysis for Canadian Light-Duty Vehicles Using SVR Model
 **Code:**
-[Here](https://github.com/arwendy123/svr_model_fuelconsumption/blob/main/SVR_Model_for_Fuel_Consumption.ipynb)
+[Here](https://github.com/arwendy123/Fuel-Consumption-SVR-Model/blob/main/SVR_Model_for_Fuel_Consumption.ipynb)
 
 **Description:**
 This project involves analyzing a dataset that provides model-specific fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles sold in Canada. The main objective is to gain insights into the fuel efficiency and environmental impact of these vehicles and establish a basis for comparing different models across various model years. The analysis includes data exploration, modelling using the Support Vector Regression (SVR) method, and model performance evaluation. The project aims to provide valuable information for understanding fuel efficiency and the environmental implications of light-duty vehicles in the Canadian market.
@@ -59,7 +59,7 @@ The project resulted in valuable insights into the fuel consumption and carbon d
 
 ### Customer Churn Prediction in Telecommunications: A Machine Learning Approach
 **Code:**
-[Here]
+[Here](https://github.com/arwendy123/Customer-Churn-Prediction-and-Analysis/blob/main/Customer_Churn_Prediction_in_Telecommunications_A_Machine_Learning_Approach.ipynb)
 
 **Description:**
 This project is aimed at predicting customer churn in a telecommunications company. The main objective is to identify customers who are likely to stop using the company's services. The data used includes various customer features such as account length, call charges, voicemail messages, and other relevant factors. The project involves data analysis, data preprocessing, feature selection, modeling using machine learning algorithms, and performance evaluation.
@@ -85,9 +85,9 @@ This project is aimed at predicting customer churn in a telecommunications compa
 In this project, two machine learning models, XGBoost Classifier and Random Forest Classifier, have been successfully built. The XGBoost Classifier achieved an accuracy of 95% on the test data, with a recall score of 73%. The Random Forest Classifier achieved an accuracy of 91% on the test data, with a recall score of 72%. The important features found in predicting churn were total_day_charge and number_customer_service_calls. This project provides insights into the factors contributing to customer churn and can help the company take appropriate actions to retain customers. By utilizing machine learning modelling, the telecommunications company can identify potentially churned customers and take proactive measures to retain them.
 
 ## Data Analysis
-### Exploratory Data Analysis English Premier League 2020/2021 Player
+### English Premier League 2020/2021 Player Analysis
 **Code:**
-[Here](https://github.com/arwendy123/EDA_EPL_Player_2020-2021/blob/60983f000d72de71ff48e38c2610feebe47655ec/EDA_EPL_Player_2021_2022.ipynb)
+[Here](https://github.com/arwendy123/EPL-2020-2021-Player-Analysis/blob/main/EDA_EPL_Player_2021_2022.ipynb)
 
 **Description:**
 This project is a data analysis aimed at studying goal scorers and player contributions in the English Premier League (EPL) for the 2020-2021 season. By utilizing statistical data such as the number of goals, assists, yellow cards, and red cards, the project provides insights into player and team performance in the competition. Additionally, data visualization is used to showcase top players, goal-scoring efficiency, player position distribution, and other relevant statistics. Overall, the project offers a better understanding of player roles in goal creation and helps evaluate team performance.
