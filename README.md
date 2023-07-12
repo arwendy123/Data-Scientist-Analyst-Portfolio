@@ -18,7 +18,7 @@ This is a repository that I have created to showcase skills, share projects and 
     + [Fuel Consumption and CO2 Emissions Analysis for Canadian Light-Duty Vehicles Using SVR Model](#fuel-consumption-and-co2-emissions-analysis-for-canadian-light-duty-vehicles-using-svr-model)
     + [Customer Churn Prediction in Telecommunications: A Machine Learning Approach](#customer-churn-prediction-in-telecommunications-a-machine-learning-approach)
   - [Data Analysis](#data-analysis)
-    + [English Premier League 2020/2021 Player Analysis](#exploratory-data-analysis-english-premier-league-20202021-player)
+    + [English Premier League 2020/2021 Player Analysis](#english-premier-league-20202021-player-analysis)
     + [Looker Studio Dashboard - Indonesia COVID-19 Cases](#looker-studio-dashboard---indonesia-covid-19-cases)
   - [Detection Project](#detection-project)
   - [Presentation Project](#presentation-project)
