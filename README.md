@@ -114,6 +114,7 @@ The Looker Studio dashboard on Indonesia COVID-19 Cases has yielded significant 
 ## Certificates
 While practical application and sharing completed work are the best ways to showcase skills, certificates can also provide indirect evidence. Here are my certifications, listed in reverse-chronological order with completion dates:
 - [Analitik Data Google](https://www.coursera.org/account/accomplishments/professional-cert/7D73GJCRBWTS) (Dec 2022) (Coursera)
+- [Fresh Graduate Academy Digital Talent Scholarship 2023](https://drive.google.com/file/d/1ZJyQvamnyTSEsa2gG6eaQBtfF0Xk9yWT/view?usp=sharing) (Apr 2023) (Binar)
 
 
 ## Contacts
