@@ -16,6 +16,7 @@ This is a repository that I have created to showcase skills, share projects and 
 - [Projects](#projects)
   - [Machine Learning](#machine-learning)
     + [Fuel Consumption and CO2 Emissions Analysis for Canadian Light-Duty Vehicles Using SVR Model](#fuel-consumption-and-co2-emissions-analysis-for-canadian-light-duty-vehicles-using-svr-model)
+    + Customer Churn Prediction in Telecommunications: A Machine Learning Approach
   - [Data Analysis](#data-analysis)
     + [Exploratory Data Analysis English Premier League 2020/2021 Player](#exploratory-data-analysis-english-premier-league-20202021-player)
     + [Looker Studio Dashboard - Indonesia COVID-19 Cases](#looker-studio-dashboard---indonesia-covid-19-cases)
@@ -56,6 +57,7 @@ This project involves analyzing a dataset that provides model-specific fuel cons
 **Results:**
 The project resulted in valuable insights into the fuel consumption and carbon dioxide emissions of light-duty vehicles in Canada. Through exploratory data analysis and the development of a Support Vector Regression (SVR) model, the project shed light on the factors influencing fuel efficiency and emissions. Visualizations provided clear representations of variable distributions and correlations. The SVR model allowed for accurate predictions of fuel consumption and emissions based on relevant features. Model evaluation using metrics such as mean squared error and R2 score ensured the model's performance. Overall, the project enhanced understanding of the relationship between vehicle features, fuel consumption, and carbon dioxide emissions, providing useful information for stakeholders in making decisions related to the efficiency and environmental impact of light-duty vehicles.
 
+### Customer Churn Prediction in Telecommunications: A Machine Learning Approach
 
 ## Data Analysis
 ### Exploratory Data Analysis English Premier League 2020/2021 Player
