@@ -16,7 +16,7 @@ This is a repository that I have created to showcase skills, share projects and 
 - [Projects](#projects)
   - [Machine Learning](#machine-learning)
     + [Fuel Consumption and CO2 Emissions Analysis for Canadian Light-Duty Vehicles Using SVR Model](#fuel-consumption-and-co2-emissions-analysis-for-canadian-light-duty-vehicles-using-svr-model)
-    + Customer Churn Prediction in Telecommunications: A Machine Learning Approach
+    + [Customer Churn Prediction in Telecommunications: A Machine Learning Approach](#customer-churn-prediction-in-telecommunications-a-machine-learning-approach)
   - [Data Analysis](#data-analysis)
     + [Exploratory Data Analysis English Premier League 2020/2021 Player](#exploratory-data-analysis-english-premier-league-20202021-player)
     + [Looker Studio Dashboard - Indonesia COVID-19 Cases](#looker-studio-dashboard---indonesia-covid-19-cases)
@@ -58,6 +58,31 @@ This project involves analyzing a dataset that provides model-specific fuel cons
 The project resulted in valuable insights into the fuel consumption and carbon dioxide emissions of light-duty vehicles in Canada. Through exploratory data analysis and the development of a Support Vector Regression (SVR) model, the project shed light on the factors influencing fuel efficiency and emissions. Visualizations provided clear representations of variable distributions and correlations. The SVR model allowed for accurate predictions of fuel consumption and emissions based on relevant features. Model evaluation using metrics such as mean squared error and R2 score ensured the model's performance. Overall, the project enhanced understanding of the relationship between vehicle features, fuel consumption, and carbon dioxide emissions, providing useful information for stakeholders in making decisions related to the efficiency and environmental impact of light-duty vehicles.
 
 ### Customer Churn Prediction in Telecommunications: A Machine Learning Approach
+**Code:**
+[Here]
+
+**Description:**
+This project is aimed at predicting customer churn in a telecommunications company. The main objective is to identify customers who are likely to stop using the company's services. The data used includes various customer features such as account length, call charges, voicemail messages, and other relevant factors. The project involves data analysis, data preprocessing, feature selection, modeling using machine learning algorithms, and performance evaluation.
+
+**Skills:** 
+- Data Analysis
+- Data Preprocessing
+- Machine Learning Modeling
+- Model Evaluation
+- Data Visualization
+
+**Technology:**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- XGBoost
+- Random Forest
+
+**Results:**
+In this project, two machine learning models, XGBoost Classifier and Random Forest Classifier, have been successfully built. The XGBoost Classifier achieved an accuracy of 95% on the test data, with a recall score of 73%. The Random Forest Classifier achieved an accuracy of 91% on the test data, with a recall score of 72%. The important features found in predicting churn were total_day_charge and number_customer_service_calls. This project provides insights into the factors contributing to customer churn and can help the company take appropriate actions to retain customers. By utilizing machine learning modelling, the telecommunications company can identify potentially churned customers and take proactive measures to retain them.
 
 ## Data Analysis
 ### Exploratory Data Analysis English Premier League 2020/2021 Player
