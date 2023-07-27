@@ -20,6 +20,7 @@ This is a repository that I have created to showcase skills, share projects and 
   - [Data Analysis](#data-analysis)
     + [Customer Segmentation and Marketing Analysis for Retail Store](#customer-segmentation-and-marketing-analysis-for-retail-store)
     + [English Premier League 2020/2021 Player Analysis](#english-premier-league-20202021-player-analysis)
+    + [Exploring Earthquake Data: Insights and Interactive Visualization]
     + [Looker Studio Dashboard - Indonesia COVID-19 Cases](#looker-studio-dashboard---indonesia-covid-19-cases)
   - [Detection Project](#detection-project)
   - [Presentation Project](#presentation-project)
@@ -116,6 +117,32 @@ The analysis reveals distinct customer segments with diverse characteristics and
 ### English Premier League 2020/2021 Player Analysis
 **Code:**
 [Here](https://github.com/arwendy123/EPL-2020-2021-player-analysis/blob/main/EDA_EPL_Player_2021_2022.ipynb)
+
+**Description:**
+This project is a data analysis aimed at studying goal scorers and player contributions in the English Premier League (EPL) for the 2020-2021 season. By utilizing statistical data such as the number of goals, assists, yellow cards, and red cards, the project provides insights into player and team performance in the competition. Additionally, data visualization is used to showcase top players, goal-scoring efficiency, player position distribution, and other relevant statistics. Overall, the project offers a better understanding of player roles in goal creation and helps evaluate team performance.
+
+**Skills:** 
+- Data manipulation
+- Data visualization
+- Statistical analysis
+- Programming
+- Problem-solving
+
+**Technology:**
+- Python
+- Jupyter Notebook
+- pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Google Colab
+
+**Results:**
+The result of this project is a better understanding of goal scorers and player contributions in the English Premier League (EPL) for the 2020-2021 season. Through data analysis, we can identify the top players in terms of goals and assists, examine the goal-scoring efficiency by comparing actual goals with expected goals (xG), evaluate the distribution of player positions within teams, and explore the correlation between yellow cards and the number of goals scored. Additionally, data visualizations help present the information in a clear and understandable manner. The outcomes of this project provide valuable insights into player and team performance in the EPL and can serve as a basis for strategic decision-making in team management or further analysis in the field of sports.
+
+### Exploring Earthquake Data: Insights and Interactive Visualization
+**Code:**
+[Here](https://github.com/arwendy123/earthquake-data-exploration/blob/main/Exploring_Earthquake_Data_Insights_and_Interactive_Visualization.ipynb)
 
 **Description:**
 This project is a data analysis aimed at studying goal scorers and player contributions in the English Premier League (EPL) for the 2020-2021 season. By utilizing statistical data such as the number of goals, assists, yellow cards, and red cards, the project provides insights into player and team performance in the competition. Additionally, data visualization is used to showcase top players, goal-scoring efficiency, player position distribution, and other relevant statistics. Overall, the project offers a better understanding of player roles in goal creation and helps evaluate team performance.
